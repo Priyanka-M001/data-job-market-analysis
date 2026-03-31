@@ -81,12 +81,3 @@ The cleaned dataset was visualized using Power BI to generate insights on:
 * Power BI
 * Excel
 
----
-
-## 🚀 How to Use
-
-1. Review the dataset and cleaning script
-2. Open the Power BI file (.pbix)
-3. Explore the dashboard and insights
-
----
